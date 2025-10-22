@@ -1,4 +1,4 @@
-# JARVIS AI Assistant 🤖
+# SHWETA AI Assistant 🤖
 
 A comprehensive AI assistant inspired by JARVIS from Iron Man, featuring voice interaction, file management, machine learning capabilities, social media integration, and cross-platform mobile support.
 
