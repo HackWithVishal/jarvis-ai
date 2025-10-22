@@ -201,11 +201,6 @@ python core/jarvis.py
 4. Add tests
 5. Submit a pull request
 
-## 📚 API Documentation
-
-Once the server is running, visit:
-- **Swagger UI**: http://localhost:8000/docs
-- **ReDoc**: http://localhost:8000/redoc
 
 ### Key Endpoints
 - `POST /process_command` - Main command processing
